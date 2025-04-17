@@ -43,9 +43,9 @@ PFSA improves upon the traditional Rational Method (RM) and Modified Rational Me
 
 The PFSA spreadsheet uses the following general equation to compute the total peak flow:
 
-\[
+$$
 Q(t) = \frac{B}{(t + D)^E} \sum_{j=1}^n C_j A_j \cdot \min\left(1, \frac{t}{T_{c,j}}\right)
-\]
+$$
 
 Where:
 - $C_j$, $A_j$, and $T_{c,j}$ are the runoff coefficient, area, and time of concentration of subarea $j$
