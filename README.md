@@ -35,7 +35,6 @@ PFSA improves upon the traditional Rational Method (RM) and Modified Rational Me
 |------|-------------|
 | `PFSA_Method.xlsm` | Main Excel tool with editable input/output interface |
 | `PFSA_User_Manual.pdf` | Full documentation and step-by-step guidance |
-| `PFSA_User_Manual.tex` | LaTeX source for the manual |
 | `README.md` | GitHub landing page (you are reading it!) |
 
 ---
